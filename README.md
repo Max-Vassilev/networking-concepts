@@ -1,4 +1,5 @@
-# networking-concepts
+# networking-journey
+
 Repo for mastering networking basics and enabling external access to a web app.
 
 # Networking Concepts and Setup
