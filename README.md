@@ -69,3 +69,4 @@ To make a web application accessible externally (from outside the local network)
             Laptop
          192.168.1.2
        (Django server)
+```
