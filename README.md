@@ -55,7 +55,7 @@ In a typical home network, each device (like laptops, phones, etc.) is assigned 
 
 ## Port Forwarding for External Access
 
-To make a web application accessible externally (from outside the local network), you need to set up **port forwarding** on your router. This allows external traffic to reach a specific device within your local network.
+To make your web application accessible externally (from outside the local network), you need to set up **port forwarding** on your router. This allows external traffic to reach a specific device within your local network. You specify the device by creating a rule in the router's configuration panel.
 
 ### Example Setup:
 
